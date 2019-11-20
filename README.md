@@ -1,6 +1,13 @@
-# tugas2
+# EUDEKA! Flutter Basic Tugas 2 (OSG8)
 
-A new Flutter project.
+Buat aplikasi Flutter Sederhana dengan ketentuan:
+
+1. Menggunakan widget Image, Text, Row, Column, dan Icon dalam satu halaman.
+2. Gambar boleh berupa Image Assets maupun Image Network.
+3. Judul, deskripsi, icon, dan sebagainya bertemakan Hari Kemerdekaan Indonesia (17an).
+
+### Screenshot
+
 
 ## Getting Started
 
